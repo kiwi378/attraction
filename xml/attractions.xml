@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tourist_attractions>
+    <attraction>
+        <placeID>001</placeID>
+        <name>Mount Kinabalu</name>
+        <location>Kundasang</location>
+        <state>Sabah</state>
+        <description>Malaysia's highest peak with scenic views and hiking trails.</description>
+        <category>Nature</category>
+        <ticket>Yes</ticket>
+        <price>For Malaysian climbers aged 18 and above costs RM 100, while for international climbers it's RM 400</price>
+        <image>img/mount kinabalu.jpeg</image>
+    </attraction>
+
+    <attraction>
+        <placeID>002</placeID>
+        <name>A Famosa</name>
+        <state>Malacca</state>
+        <description>The oldest part of the fortress was a five-storey keep which eventually gave its name to the fortress as a whole.</description>
+        <category>Historical</category>
+        <ticket>Yes</ticket>
+        <price>MYR 68 online and MYR 74 at the walk-in counter for adults (13-99) and MYR 60 online and MYR 66 at the walk-in counter for children (4-12)</price>
+        <image>img/a famosa.jpg</image>
+    </attraction>
+
+    <attraction>
+        <placeID>003</placeID>
+        <name>Batu Caves</name>
+        <state>Selangor</state>
+        <category>Religious</category>
+        <description>A Hindu temple located in a limestone hill with a large statue of Lord Murugan.</description>
+        <ticket>Yes</ticket>
+        <price>Adult:RM33, Child:RM18</price>
+        <image>img/batucaves.jfif</image>
+    </attraction>
+
+    <attraction>
+        <placeID>004</placeID>
+        <name>Petronas Twin Towers</name>
+        <state>Kuala Lumpur</state>
+        <category>Urban Landmark</category>
+        <description>The iconic twin skyscrapers, offering panoramic views of the city.</description>
+        <ticket>Yes</ticket>
+        <price>ADULT 13 to 60 years old	RM35 (MYKAD)	RM98 (NON-MYKAD)</price>
+        <image>img/petronastwintowers.jfif</image>
+    </attraction>
+
+    <attraction>
+        <placeID>005</placeID>
+        <name>Penang Hill</name>
+        <state>Penang</state>
+        <category>Recreational</category>
+        <openingHours>6.30am to 11.00pm</openingHours>
+        <description>A hill resort offering beautiful views and recreational activities.</description>
+        <ticket>No</ticket>
+        <price>Free</price>
+        <image>img/penanghill.jfif</image>
+    </attraction>
+
+    <attraction>
+        <placeID>006</placeID>
+        <name>Legoland</name>
+        <location>Iskandar Puteri</location>
+        <state>Johor</state>
+        <description>Home to the most successful rides, slides, shows and attractions from LEGOLAND Parks around the world.</description>
+        <openingHours>10am to 6pm</openingHours>
+        <category>Entertainment</category>
+        <ticket>Yes</ticket>
+        <price>1-DayTheme Park: RM199(Adult), RM169(Child/Senior), Free for Children under 3 years</price>
+        <image>img/legoland.webp</image>
+    </attraction>
+
+    <attraction>
+        <placeID>007</placeID>
+        <name>Thean Hou Temple</name>
+        <location>Kuala Lumpur</location>
+        <description>Description: The temple was built by Hainanese living in Malaysia.</description>
+        <openingHours>Opening Hours: 8am to 8pm</openingHours>
+        <category>Cultural</category>
+        <ticket>No</ticket>
+        <price>Free</price>
+        <image>img/thean hou temple.jpg</image>
+    </attraction>
+
+    <attraction>
+        <placeID>008</placeID>
+        <name>Sunway Lagoon</name>
+        <location>Selangor</location>
+        <description>The park initially featured two main sections: Waters of Africa, offering 13 attractions, and Surf Beach, featuring 9 attractions. Waters of Africa includes two water playgrounds, Kalahari Kids and Little Zimbabwe.</description>
+        <openingHours>Opening Hours: 10am to 11pm</openingHours>
+        <category>Adventure</category>
+        <ticket>Yes</ticket>
+        <price>Adult (13 years old and above) RM250 : Child (12 years old and below) RM200 : Senior Citizen (60 years old and above)	RM200</price>
+        <image>img/sunwaylagoon.jfif</image>
+    </attraction>
+
+    <attraction>
+        <placeID>009</placeID>
+        <name>Kek Lok Si Temple</name>
+        <state>Penang</state>
+        <description>It is the largest Buddhist temple in Malaysia and an important pilgrimage centre for Buddhists from Hong Kong, the Philippines, Singapore and other parts of Southeast Asia.</description>
+        <openingHours>8:30am to 5:30pm</openingHours>
+        <category>Religious</category>
+        <ticket>Yes</ticket>
+        <price>RM198.74</price>
+        <image>img/kekloksi.jpg</image>
+    </attraction>
+
+    <attraction>
+        <placeID>010</placeID>
+        <name>Petrosains, The Discovery Centre</name>
+        <location>Penang</location>
+        <description>It offers a sophisticated blend of interactive exhibits and engaging activities.</description>
+        <openingHours>9am to 1pm, 2pm to 5pm (Monday Closed)</openingHours>
+        <category>Educational</category>
+        <ticket>Yes</ticket>
+        <price>Infants (0-2 years): Free ,Children (3-12 years): RM 10 (weekdays), RM 12 (weekends/holidays), Adults (13-60 years): RM 22 (weekdays), RM 25 (weekends/holidays) 
+Senior Citizens (61 years and above): RM 10 (weekdays), RM 12 (weekends/holidays) </price>
+        <image>img/petrosains.avif</image>
+    </attraction>
+</tourist_attractions>
